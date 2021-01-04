@@ -1,0 +1,3 @@
+[submodule "mnist1d"]
+	path = mnist1d
+	url = https://github.com/greydanus/mnist1d.git
